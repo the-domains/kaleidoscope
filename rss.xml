@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Kaleidoscope]]></title>
         <description><![CDATA[Kaleidoscope]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kaleidoscope/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 22:27:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Apr 2016 22:34:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kaleidoscope/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This new pen digitises your notebooks as you write in them]]></title>
+            <description><![CDATA[<article><h1>This new pen digitises your notebooks as you write in them</h1><p>No matter how convenient and easy doing everything online is these days, nothing will replace the feeling of scribbling notes, sketches, and random doodles in that old, beat-up notebook you carry around with you everywhere. The only problem? What goes into your notebook stays in your notebook.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83c9a25c4d8e824e71f90cc1daeba0715d9e708a.jpg"></article>]]></description>
+            <link>http://www.sciencealert.com/this-new-pen-digitises-your-notebooks-as-you-write-in-them</link>
+            <guid isPermaLink="false">46761630-609b-41fd-8bb2-13a419440f2e</guid>
+            <pubDate>Thu, 28 Apr 2016 22:32:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Your house plant could soon charge your phone]]></title>
             <description><![CDATA[<article><h1>Your house plant could soon charge your phone</h1><p>When Mother Nature came up with photosynthesis, she likely wasn't expecting any USB cords to be involved. Alas, there's no stopping progress. Power output from the Bioo Lite system is equivalent to a USB charge from a laptop or desktop computer A European startup company is currently developing an intriguing gizmo that will let you charge your phone with your potted plant.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8af0cd844cdad5f72565f400651bcfa9c9aaf559.jpg"></article>]]></description>
