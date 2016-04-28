@@ -1,7 +1,7 @@
 name: Kaleidoscope
 favicon: null
-layout_spectrum: 0.94007
-typography_spectrum: 0.88316
+layout_spectrum: 0.00143
+typography_spectrum: 0.76735
 title: Kaleidoscope
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#a1ad81'
     - '#e1442a'
     - '#334c57'
-  brandStrength: 0.1875
-  lightness: 0.625
+  brandStrength: 0.25
+  lightness: 0.75
   saturation: 0.5
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.5
 purpose: []
