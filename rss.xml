@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Kaleidoscope]]></title>
+        <description><![CDATA[Kaleidoscope]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Apr 2016 22:27:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Your house plant could soon charge your phone]]></title>
+            <description><![CDATA[<article><h1>Your house plant could soon charge your phone</h1><p>When Mother Nature came up with photosynthesis, she likely wasn't expecting any USB cords to be involved. Alas, there's no stopping progress. Power output from the Bioo Lite system is equivalent to a USB charge from a laptop or desktop computer A European startup company is currently developing an intriguing gizmo that will let you charge your phone with your potted plant.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8af0cd844cdad5f72565f400651bcfa9c9aaf559.jpg"></article>]]></description>
+            <link>http://mashable.com/2016/04/28/plant-charges-phone-photosynthesis/#zatrDVlL7ZqF</link>
+            <guid isPermaLink="false">03dbf95c-8ae1-44e4-8da4-9f7014abffe8</guid>
+            <pubDate>Thu, 28 Apr 2016 22:27:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
