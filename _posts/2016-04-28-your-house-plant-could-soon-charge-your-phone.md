@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://mashable.com/2016/04/28/plant-charges-phone-photosynthesis/#zatrDVlL7ZqF'
 title: Your house plant could soon charge your phone
-datePublished: '2016-04-28T22:27:41.854Z'
-dateModified: '2016-04-28T22:26:31.031Z'
+datePublished: '2016-04-28T22:32:55.247Z'
+dateModified: '2016-04-28T22:25:54.699Z'
 starred: false
 sourcePath: _posts/2016-04-28-your-house-plant-could-soon-charge-your-phone.md
 published: true
