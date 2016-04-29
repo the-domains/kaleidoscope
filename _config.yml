@@ -1,29 +1,18 @@
-name: Kaleidoscope
-favicon: null
-layout_spectrum: 0.50308
-typography_spectrum: 0
-title: Kaleidoscope
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#010010'
-    - '#fefefe'
-    - '#a1ad81'
-    - '#e1442a'
-    - '#334c57'
-  brandStrength: 0.6875
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+    - '#383025'
+    - '#8AA7B9'
+    - '#BFD7D9'
+    - '#000600'
+    - '#FEFEFE'
+  brandStrength: 0
+  lightness: 0.724662
+  rhythmicContrast: 0.254223
+  saturation: 0.245777
+cta: {}
+layout_spectrum: 0.50308
+name: Kaleidoscope
+opengraph: {}
 purpose: []
+typography_spectrum: 0.063345
