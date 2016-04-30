@@ -6,13 +6,13 @@ color:
     - '#BFD7D9'
     - '#000600'
     - '#FEFEFE'
-  brandStrength: 0
-  lightness: 0.724662
-  rhythmicContrast: 0.254223
-  saturation: 0.245777
+  brandStrength: 0.324324
+  lightness: 0.478041
+  rhythmicContrast: 0.769426
+  saturation: 0.73902
 cta: {}
-layout_spectrum: 1
+layout_spectrum: 0.475507
 name: Kaleidoscope
 opengraph: {}
 purpose: []
-typography_spectrum: 0.063345
+typography_spectrum: 0.307432
